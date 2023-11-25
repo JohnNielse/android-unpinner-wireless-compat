@@ -15,7 +15,7 @@ Please shamelessly copy whatever idea you like into other tools. :-)
 ## Installation
 
 ```console
-$ git clone https://github.com/mitmproxy/android-unpinner.git
+$ git clone [https://github.com/JohnNielse/android-unpinner-wireless-compat.git]
 $ cd android-unpinner
 $ pip install -e .
 ```
