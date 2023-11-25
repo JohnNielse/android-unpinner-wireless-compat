@@ -16,7 +16,7 @@ Please shamelessly copy whatever idea you like into other tools. :-)
 
 ```console
 $ git clone https://github.com/JohnNielse/android-unpinner-wireless-compat.git
-$ cd android-unpinner
+$ cd android-unpinner-wireless-compat
 $ pip install -e .
 ```
 
